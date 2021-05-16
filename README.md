@@ -9,7 +9,7 @@
 
 <br/>
 
-a live demo lies here: [Github-Finder](https://utkutekalmaz-githubfinder.netlify.com)
+a live demo lies here: [Places](https://userplacesog.herokuapp.com/)
 <br/>
 
 
