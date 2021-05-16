@@ -1,6 +1,6 @@
 # User places
 
-## A fullstack application for keeping user places 
+## A fullstack application for keeping user places.
 
 
 
